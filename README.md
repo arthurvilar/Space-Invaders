@@ -1,6 +1,6 @@
 # Space-Invaders
 
-A version of Space Invaders implemented in C using ncurses and linked lists.
+A version of Space Invaders to play in the linux terminal. The game is implemented in C using ncurses and linked lists.
 
 ### How to play:
 - Type ./spaceinvaders in the terminal.
